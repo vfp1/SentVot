@@ -1,4 +1,5 @@
-__author__ = 'Victor Francisco Pajuelo Madrigal'
+__author__ = 'vfp1'
+
 from PyQt4 import QtGui, QtCore
 
 class Ui_SentVotHelpFile(object):
