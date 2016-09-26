@@ -1,4 +1,4 @@
-__author__ = 'Victor Francisco Pajuelo Madrigal'
+__author__ = 'Victor'
 
 #Attributes of the Polygons
 CATEGORY_RESTORE = "ABLE_RESTORE"

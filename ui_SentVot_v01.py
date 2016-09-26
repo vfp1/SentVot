@@ -1,4 +1,4 @@
-__author__ = 'Victor Francisco Pajuelo Madrigal'
+__author__ = 'Victor'
 
 from PyQt4 import QtCore, QtGui
 from qgis.core import *

@@ -1,4 +1,4 @@
-__author__ = 'Victor Francisco Pajuelo Madrigal'
+__author__ = 'Victor'
 from ui_SentVot_v01 import Ui_SentVot
 from ui_SentVot_helpfile_v01 import Ui_SentVotHelpFile
 from ui_SentVot_aboutfile_v01 import Ui_SentVotAboutFile
